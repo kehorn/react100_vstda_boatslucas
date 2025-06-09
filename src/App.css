@@ -1,0 +1,30 @@
+.priority-high{
+    background-color: red
+}
+.priority-medium{
+    background-color: rgb(240, 216, 6)
+}
+.priority-low{
+    background-color: rgb(8, 157, 15)
+}
+.container{
+    background: rgba(141, 5, 239, 0.795)
+}
+body{
+    font-family: 'Special Gothic Expanded One', sans-serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Special Gothic Expanded One', sans-serif;
+    color:aliceblue !important;
+}
+.btn-primary:hover{
+    background-color: rgb(88, 3, 94) !important;
+    color:aqua !important;
+}
+
+
+
+
+
+
