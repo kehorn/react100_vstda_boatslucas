@@ -10,5 +10,5 @@ export default defineConfig({
         setupFiles: "./tests/setup.js",
         files: "./tests/**/*.test.jsx"
     },
-    base: import.meta.env.VITE_BASE_PATH || "/react100_vstda_boatslucas"
+    base: process.env.VITE_BASE_PATH || "/react100_vstda_boatslucas"
 });
